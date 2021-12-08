@@ -1,14 +1,14 @@
 body {
     font-family: 'Abel', sans-serif;
-    background-color: lavenderblush;
+    background-color: black;
     padding: 25px;
     font-size: 120%;
 }
 
 div#content {
     padding: 25px;
-    background-color: lavenderblush;
-    border: solid 5px #FFC2D6;
+    background-color: black;
+    border: solid 2px #FFFFFF;
     height:auto;
     width: auto;
 }
@@ -17,10 +17,10 @@ main#content{
   margin-top:20px;
   padding:20px;
   padding-left:10px;
-  background-color: #FFF0F5;
+  background-color: black;
   height: auto;
   width: inherit;
-  border: solid 5px #FFC2D6;
+  border: solid 5px #FFFFFF;
 }
 h1, h2, h3 {
     font-family: 'Architects Daughter', cursive;
