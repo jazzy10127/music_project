@@ -1,0 +1,43 @@
+body {
+    font-family: 'Playfair Display', serif;
+    background-color: black;
+    padding: 25px;
+    font-size: 120%;
+    color: white;
+}
+
+div#content {
+    padding: 25px;
+    background-color: black;
+    border: solid 2px #FFFFFF;
+    height:auto;
+    width: auto;
+}
+
+main#content{
+  margin-top:20px;
+  padding:20px;
+  padding-left:10px;
+  background-color: black;
+  height: auto;
+  width: inherit;
+  border: solid 5px #FFFFFF;
+}
+h1, h2, h3 {
+    font-family: 'Gwendolyn', cursive;
+    color: #f3cf61;
+    font-size: 25px;
+}
+p{
+  font-family: "courier new", bold:
+}
+iframe#fake {
+    width: 800px;
+    height: 500px;
+    resize: both;
+    overflow: hidden;
+}
+a {
+    text-decoration: none;
+    color: maroon;
+}
