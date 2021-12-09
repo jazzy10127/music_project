@@ -1,5 +1,5 @@
 body {
-    font-family: 'Abel', sans-serif;
+    font-family: 'Playfair Display', serif;
     background-color: black;
     padding: 25px;
     font-size: 120%;
@@ -24,7 +24,8 @@ main#content{
   border: solid 5px #FFFFFF;
 }
 h1, h2, h3 {
-    font-family: 'Architects Daughter', cursive;
+    font-family: 'Gwendolyn', cursive;
+    color: #f3cf61;
 }
 p{
   font-family: "courier new", bold:
