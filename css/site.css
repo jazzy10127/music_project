@@ -1,0 +1,106 @@
+@media only screen and (max-width: 600px) {
+
+}
+html{
+  text-align: center;
+}
+
+.navbar {
+  text-align: center;
+
+}
+body {
+
+    border: 3px
+    solid black;
+
+    image-rendering: 10%;
+}
+h1,h2,h3,h4 {
+    text-decoration: underline;
+        font-family: 'Gwendolyn', cursive;
+          font-size: 25px;
+
+}
+
+img{
+  width : 250px;
+  height : 175px;
+}
+
+header {
+  text-align: center;
+  color : black;
+
+      font-family: 'Gwendolyn', cursive;
+    font-size: 40px;
+    text-decoration: underline;
+
+
+    font-style: italic;
+}
+footer {
+  text-align: center;
+
+    background-color: rgb(215, 215, 250);
+    border-style: solid;
+    font-family: monospace, fantasy;
+    font-variant: small-caps;
+    font-size: 20px;
+}
+aside {
+border-style: solid;
+    margin: auto;
+    object-fit: cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+
+}
+.flex {
+  display: flex;
+  flex-direction: column;
+}
+
+.box {
+  width: 300px;
+}
+
+
+nav {
+  /* turns off underlining links */
+  border-style: solid;
+  text-decoration: none;
+  text-transform: uppercase;
+  text-align: center;
+  /* same as #808080 */
+
+  font-weight: bold;
+  /* set font-size at 90% of default */
+  font-size: 150%;
+}
+
+.gros{
+  background: radial-gradient(ellipse farthest-corner at right bottom, #FEDB37 0%, #FDB931 8%, #9f7928 30%, #8A6E2F 40%, transparent 80%),
+                radial-gradient(ellipse farthest-corner at left top,  #FFFFAC 0%, #D1B464 25%, #5d4a1f 62.5%, #5d4a1f 100%);
+}
+#column1{
+  text-align: center;
+font-family: "Times New Roman", Times, serif;
+}
+
+#column2{
+  text-align: center;
+font-family: "Times New Roman", Times, serif;
+}
+
+#column3{
+  text-align: center;
+font-family: "Times New Roman", Times, serif;
+}
+
+a{
+  color : darkgray;
+
+}
