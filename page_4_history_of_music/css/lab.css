@@ -1,3 +1,14 @@
+@media only screen and (max-width: 600px) {
+
+}
+html{
+  text-align: center;
+}
+
+.navbar {
+  text-align: center;
+
+}
 body {
     font-family: 'Playfair Display', serif;
     background-color: black;
