@@ -99,7 +99,19 @@ font-family: "Times New Roman", Times, serif;
   text-align: center;
 font-family: "Times New Roman", Times, serif;
 }
+#column4{
+  text-align: center;
+font-family: "Times New Roman", Times, serif;
+}
 
+#column5{
+  text-align: center;
+font-family: "Times New Roman", Times, serif;
+}
+
+#column6{
+font-family: "Times New Roman", Times, serif;
+}
 a{
   color : darkgray;
 
